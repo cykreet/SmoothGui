@@ -8,16 +8,9 @@
 		"defaultRequire": 1
 	},
 	"client": [
-		"HandledScreenMixin",
-		"KeybindsScreenMixin",
-		"LanguageOptionsScreenMixin",
-		"MouseOptionsScreenMixin",
-		"RecipeBookMixin",
-      "TexturedButtonWidgetMixin",
-		"ResourcePackOptionsScreenMixin",
 		"ScreenMixin",
-		"SimpleOptionsScreenMixin",
-		"SoundOptionsScreenMixin",
-		"VideoOptionsScreenMixin"
+		"HandledScreenMixin",
+		"RecipeBookMixin",
+		"TexturedButtonWidgetMixin"
 	]
 }
